@@ -125,12 +125,12 @@ void registerIdealEnvIST( std::string fileName4, int version, pd::Matrix4<float>
             p1=start;
             p2=start+1;
             start++;
-            std::string F1 =  "/Users/deuce/Desktop/untitled/input/";
+            std::string F1 =  "./../input/";
             std::string F2 = ".log";
             std::string F3 = F1+toString(p1)+F2;
 
 
-            std::string L1 =  "/Users/deuce/Desktop/untitled/input/";
+            std::string L1 =  "./../input/";
             std::string L2 = ".log";
             std::string L3 = F1+toString(p2)+F2;
 

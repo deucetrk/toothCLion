@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/deuce/Desktop/untitled/include/resouce/Matrix4.cpp" "/Users/deuce/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir/include/resouce/Matrix4.cpp.o"
-  "/Users/deuce/Desktop/untitled/include/resouce/SphereNode.cpp" "/Users/deuce/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir/include/resouce/SphereNode.cpp.o"
-  "/Users/deuce/Desktop/untitled/include/resouce/SphereTree.cpp" "/Users/deuce/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir/include/resouce/SphereTree.cpp.o"
-  "/Users/deuce/Desktop/untitled/include/resouce/Vec3.cpp" "/Users/deuce/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir/include/resouce/Vec3.cpp.o"
-  "/Users/deuce/Desktop/untitled/main.cpp" "/Users/deuce/Desktop/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+  "/Users/deuce/Desktop/toothCLion/untitled/include/resouce/Matrix4.cpp" "/Users/deuce/Desktop/toothCLion/untitled/cmake-build-debug/CMakeFiles/untitled.dir/include/resouce/Matrix4.cpp.o"
+  "/Users/deuce/Desktop/toothCLion/untitled/include/resouce/SphereNode.cpp" "/Users/deuce/Desktop/toothCLion/untitled/cmake-build-debug/CMakeFiles/untitled.dir/include/resouce/SphereNode.cpp.o"
+  "/Users/deuce/Desktop/toothCLion/untitled/include/resouce/SphereTree.cpp" "/Users/deuce/Desktop/toothCLion/untitled/cmake-build-debug/CMakeFiles/untitled.dir/include/resouce/SphereTree.cpp.o"
+  "/Users/deuce/Desktop/toothCLion/untitled/include/resouce/Vec3.cpp" "/Users/deuce/Desktop/toothCLion/untitled/cmake-build-debug/CMakeFiles/untitled.dir/include/resouce/Vec3.cpp.o"
+  "/Users/deuce/Desktop/toothCLion/untitled/main.cpp" "/Users/deuce/Desktop/toothCLion/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

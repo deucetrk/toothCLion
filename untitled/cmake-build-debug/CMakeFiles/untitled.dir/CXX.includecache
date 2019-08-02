@@ -6,23 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/deuce/Desktop/untitled/include/header/Bankhelper.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Bankhelper.h
 iostream
 -
 sstream
 -
 
-/Users/deuce/Desktop/untitled/include/header/Config.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Config.h
 
-/Users/deuce/Desktop/untitled/include/header/Matrix4.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Matrix4.h
 Resources.h
-/Users/deuce/Desktop/untitled/include/header/Resources.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Resources.h
 Matrix4.h
-/Users/deuce/Desktop/untitled/include/header/Matrix4.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Matrix4.h
 Vec3.h
-/Users/deuce/Desktop/untitled/include/header/Vec3.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Vec3.h
 
-/Users/deuce/Desktop/untitled/include/header/Misc.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Misc.h
 string
 -
 vector
@@ -40,17 +40,17 @@ sstream
 algorithm
 -
 buildparams.h
-/Users/deuce/Desktop/untitled/include/header/buildparams.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/buildparams.h
 
-/Users/deuce/Desktop/untitled/include/header/Resources.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Resources.h
 
-/Users/deuce/Desktop/untitled/include/header/SphereNode.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/SphereNode.h
 Resources.h
-/Users/deuce/Desktop/untitled/include/header/Resources.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Resources.h
 Vec3.h
-/Users/deuce/Desktop/untitled/include/header/Vec3.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Vec3.h
 
-/Users/deuce/Desktop/untitled/include/header/SphereTree.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/SphereTree.h
 vector
 -
 map
@@ -58,21 +58,21 @@ map
 float.h
 -
 Resources.h
-/Users/deuce/Desktop/untitled/include/header/Resources.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Resources.h
 Matrix4.h
-/Users/deuce/Desktop/untitled/include/header/Matrix4.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Matrix4.h
 SphereNode.h
-/Users/deuce/Desktop/untitled/include/header/SphereNode.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/SphereNode.h
 Vec3.h
-/Users/deuce/Desktop/untitled/include/header/Vec3.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Vec3.h
 
-/Users/deuce/Desktop/untitled/include/header/Vec3.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Vec3.h
 iostream
 -
 
-/Users/deuce/Desktop/untitled/include/header/buildparams.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/buildparams.h
 
-/Users/deuce/Desktop/untitled/include/header/test.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/test.h
 fstream
 -
 iterator
@@ -80,39 +80,39 @@ iterator
 math.h
 -
 Vec3.h
-/Users/deuce/Desktop/untitled/include/header/Vec3.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Vec3.h
 Misc.h
-/Users/deuce/Desktop/untitled/include/header/Misc.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Misc.h
 Matrix4.h
-/Users/deuce/Desktop/untitled/include/header/Matrix4.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Matrix4.h
 SphereTree.h
-/Users/deuce/Desktop/untitled/include/header/SphereTree.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/SphereTree.h
 Bankhelper.h
-/Users/deuce/Desktop/untitled/include/header/Bankhelper.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Bankhelper.h
 Config.h
-/Users/deuce/Desktop/untitled/include/header/Config.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Config.h
 unordered_map
 -
 string
 -
 
-/Users/deuce/Desktop/untitled/main.cpp
+/Users/deuce/Desktop/toothCLion/untitled/main.cpp
 iostream
 -
 include/header/Matrix4.h
-/Users/deuce/Desktop/untitled/include/header/Matrix4.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Matrix4.h
 include/header/Vec3.h
-/Users/deuce/Desktop/untitled/include/header/Vec3.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Vec3.h
 include/header/SphereTree.h
-/Users/deuce/Desktop/untitled/include/header/SphereTree.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/SphereTree.h
 include/header/Matrix4.h
-/Users/deuce/Desktop/untitled/include/header/Matrix4.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Matrix4.h
 include/header/SphereNode.h
-/Users/deuce/Desktop/untitled/include/header/SphereNode.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/SphereNode.h
 include/header/Bankhelper.h
-/Users/deuce/Desktop/untitled/include/header/Bankhelper.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/Bankhelper.h
 include/header/test.h
-/Users/deuce/Desktop/untitled/include/header/test.h
+/Users/deuce/Desktop/toothCLion/untitled/include/header/test.h
 string
 -
 

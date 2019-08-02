@@ -1,0 +1,3 @@
+/Users/deuce/Desktop/toothCLion/untitled/CMakeFiles/rebuild_cache.dir
+/Users/deuce/Desktop/toothCLion/untitled/CMakeFiles/edit_cache.dir
+/Users/deuce/Desktop/toothCLion/untitled/CMakeFiles/untitled.dir

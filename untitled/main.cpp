@@ -16,9 +16,9 @@
 int main ()
 {
 std::string str;
-int PL_A1 =7;
+int PL_A1 =300;
 std::cout << "Your input =  " << toString(PL_A1) << std::endl;
-std::string t1 = "./src/knowrob/knowrob_bank/src/input/";
+std::string t1 = "./../input/";
 std::string t3 = ".log";
 std::string t4 = t1+toString(PL_A1) +t3;
 
@@ -65,7 +65,7 @@ auto M = pd::Matrix4<float>::IDENTITY();
 }
 
 */
-std::string F1 =  "/Users/deuce/Desktop/untitled/input/0.log";
+std::string F1 =  "./../input/0.log";
 test::registerIdealEnvIST(F1,1,M,1,t4,PL_A1);
 
 
